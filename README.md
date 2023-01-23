@@ -10,8 +10,3 @@ by using Sklearn library. And than after all deploying our model to the the web 
 ### Accuracy obtained
  Accuracy obtained = 0.9666666666666667
 
-### Model Web Address
-Click [https://iris-data-lr.herokuapp.com/](https://iris-data-lr.herokuapp.com/) to check the model.
-click [https://app0demo.herokuapp.com/](https://app0demo.herokuapp.com/) to check model deployed on docker.
-
-<img src = 'https://github.com/VaishnaviFaraktea/IRISmodel/blob/master/Web%20Interface.png?raw=true'>
