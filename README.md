@@ -1,4 +1,4 @@
-# IRIS Flower Classification and deploy on heroku via docker
+# IRIS Flower Classification 
 
 This prject is all about classifing IRIS Flower dataset using  by using [Logistic Regression](https://machinelearningmastery.com/logistic-regression-for-machine-learning).
 by using Sklearn library. And than after all deploying our model to the the web by using the Flask framework. 
